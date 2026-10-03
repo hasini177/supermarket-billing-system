@@ -48,15 +48,18 @@ A desktop billing application built with **Java (Swing)** and **MySQL**. Enter p
 ---
 
 ## 📁 Project Structure
-``` text 
+
+```text
 Supermarket-Billing-System/
 │
 ├── src/
 │   ├── BillingSystemGUI.java
+│   ├── BillingSystem.java
 │   ├── Product.java
 │   ├── Cart.java
 │   ├── CartItem.java
 │   ├── Bill.java
+│   ├── Inventory.java
 │   ├── DBConnection.java
 │   ├── ProductDAO.java
 │   └── BillingDAO.java
@@ -64,16 +67,19 @@ Supermarket-Billing-System/
 ├── lib/
 │   └── mysql-connector-j-26.7.0.jar
 │
-├── SQL/
+├── sql/
+│   ├── billing_queries.sql
 │   ├── create_database.sql
 │   ├── create_table.sql
-│   └── insert_data.sql
+│   ├── insert_data.sql
+│   └── test.sql
 │
-└── .vscode/
-    └── settings.json
-
----
+├── .vscode/
+│   └── settings.json
+│
+└── README.md
 ```
+----
 
 ## ▶️ How to Run
 
