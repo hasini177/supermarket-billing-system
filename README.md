@@ -48,6 +48,7 @@ A desktop billing application built with **Java (Swing)** and **MySQL**. Enter p
 ---
 
 ## 📁 Project Structure
+``` text 
 Supermarket-Billing-System/
 │
 ├── src/
@@ -72,6 +73,7 @@ Supermarket-Billing-System/
     └── settings.json
 
 ---
+```
 
 ## ▶️ How to Run
 
