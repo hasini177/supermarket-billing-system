@@ -72,7 +72,7 @@ Supermarket-Billing-System/
 │   ├── create_database.sql
 │   ├── create_table.sql
 │   ├── insert_data.sql
-│   └── test.sql
+│   
 │
 ├── .vscode/
 │   └── settings.json
